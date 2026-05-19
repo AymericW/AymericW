@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AymericW
 - 👀 I’m interested in constructing quality software
-- 🌱 I’m currently learning Advanced Javascript + ReactJS
-- 💞️ I’m looking to collaborate on any Javascript or C# Project related to videogames!
+- 🌱 ReactJs developper
+- 💞️ I’m looking to collaborate on any Javascript Project!
 - 📫 How to reach me : Aymeric.wilmotte@hotmail.com || +32498731974
 
 
